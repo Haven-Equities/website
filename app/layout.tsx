@@ -57,13 +57,13 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'HAVEN Equities | Student-Led Equity Research Collective',
     description: 'A student-led equity research collective using founder-owned capital as an educational case study.',
-    images: ['/icon.svg'],
+    images: ['/apple-touch-icon.png'],
   },
   icons: {
     icon: [
-      { url: '/icon.svg', type: 'image/svg+xml' },
+      { url: '/apple-touch-icon.png', type: 'image/svg+xml' },
     ],
-    apple: [{ url: '/apple-touch-icon.svg', type: 'image/svg+xml' }],
+    apple: [{ url: '/apple-touch-icon.png', type: 'image/svg+xml' }],
   },
   manifest: '/site.webmanifest',
   robots: {
