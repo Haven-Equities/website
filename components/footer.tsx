@@ -25,6 +25,15 @@ export function Footer() {
             <p className="mt-3 text-sm leading-relaxed text-muted-foreground">
               A student-led equity research collective using founder-owned capital as an educational case study.
             </p>
+            <p className="mt-3 text-sm text-muted-foreground">
+              Company email:{" "}
+              <a
+                href="mailto:havenequities2026@gmail.com"
+                className="underline underline-offset-4 transition-colors hover:text-foreground"
+              >
+                havenequities2026@gmail.com
+              </a>
+            </p>
           </div>
 
           {/* Navigation */}
@@ -53,7 +62,7 @@ export function Footer() {
               © 2026 HAVEN Equities. All rights reserved.
             </p>
             <p className="text-xs sm:text-sm">
-              Made by <a href="https://anshgupta.site" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Ansh Gupta</a>
+              Made by <a href="https://anshgupta.cc" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">Ansh Gupta</a>
             </p>
           </div>
         </div>
